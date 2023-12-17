@@ -1,0 +1,14 @@
+/* Position the icon within the input element */
+.icon-input {
+    padding-left: 30px; /* Adjust this value to align the icon properly */
+    background-image: none;
+}
+
+/* Style the search icon */
+.icon {
+    position: absolute;
+    top: 8px; /* Adjust this value to vertically center the icon */
+    left: 10px; /* Adjust this value to position the icon on the left side */
+    color: #888; /* Adjust the color as needed */
+    pointer-events: none; /* Prevent the icon from being clicked */
+}
